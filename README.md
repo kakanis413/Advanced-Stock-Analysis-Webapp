@@ -2,6 +2,9 @@
 
 A comprehensive Streamlit-based web application that provides sophisticated stock analysis tools combining technical indicators, fundamental scoring, sentiment analysis, and advanced risk assessment. This dashboard goes beyond traditional stock analysis by offering unique custom metrics and multi-dimensional insights for informed investment decisions.
 
+# Link to Webapp
+https://4a61df09-04cb-4342-9560-e74b503fd9be-00-1zfzawl34k2ek.riker.replit.dev
+
 ## 🚀 Features
 
 ### 📈 Multi-Stock Comparison Dashboard
